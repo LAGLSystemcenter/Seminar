@@ -1,0 +1,26 @@
+{
+  "id": "25a95f77-215a-4c3e-abb7-127237f658b9",
+  "name": "SeminarSolution",
+  "publisher": "LAGL",
+  "brief": "Seminar løsning fra kursus",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "features": "TranslationFile",
+  "showMyCode": true,
+  "target": "Internal", 
+  "idRange": {
+    "from": 123456700,
+    "to": 123456799
+  }
+}
